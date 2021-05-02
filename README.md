@@ -30,10 +30,10 @@
 | Michael Angermeier | [Trading Bot](https://github.com/michael-spengler/ml-server) | ?  | 
 | Patrick Mischka | [Trading Bot](https://github.com/michael-spengler/ml-server) | ?  |
 | Arthur Siebert | FFC Content + Pump Exploit | 1,0 | 
-| Lilli Michaelis | EasyInsta & Easy-Universum | ? | 
-| Lukas Ganß | EasyInsta & Easy-Universum | ?  | 
-| Timon Pitz | EasyInsta & Easy-Universum | ?  | 
-| Gian-Luca Beck | EasyInsta & Easy-Universum | ?  | 
+| Lilli Michaelis | [EasyInsta & Easy-Universum](https://github.com/timonpitz/EasyInsta) | ? | 
+| Lukas Ganß | [EasyInsta & Easy-Universum](https://github.com/timonpitz/EasyInsta)  | ?  | 
+| Timon Pitz | [EasyInsta & Easy-Universum](https://github.com/timonpitz/EasyInsta)  | ?  | 
+| Gian-Luca Beck | [EasyInsta & Easy-Universum](https://github.com/timonpitz/EasyInsta) | ?  | 
 | Andrei Berbescu |  |   | 
 | Florian Klinke |  |   | 
 | Nina Meffert |  |   | 
